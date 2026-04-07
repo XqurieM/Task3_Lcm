@@ -3,30 +3,34 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Task3_Lcm.Controllers
 {
-    //[Route("api/[controller]")]
-    [Route("ebrar_guzel26_gmail_com")]
+    [Route("")]
     [ApiController]
     public class LcmController : ControllerBase
     {
-        [HttpGet]
+        [HttpGet("ebrar_guzel26_gmail_com")]
         public string Get(string x, string y)
         {
-            if (!int.TryParse(x, out int a) || !int.TryParse(y, out int b) || a < 0 || b < 0)
+            if (!long.TryParse(x, out var a) || !long.TryParse(y, out var b))
                 return "NaN";
 
-            int Gcd(int m, int n)
-            {
-                while (n != 0)
-                {
-                    int temp = n;
-                    n = m % n;
-                    m = temp;
-                }
-                return m;
-            }
+            if (a < 0 || b < 0)
+                return "NaN";
 
-            int lcm = (a == 0 || b == 0) ? 0 : (a * b) / Gcd(a, b);
-            return lcm.ToString();
+            if (a == 0 || b == 0)
+                return "0";
+
+            return (a / Gcd(a, b) * b).ToString();
+        }
+
+        private long Gcd(long a, long b)
+        {
+            while (b != 0)
+            {
+                long temp = b;
+                b = a % b;
+                a = temp;
+            }
+            return a;
         }
     }
 }
