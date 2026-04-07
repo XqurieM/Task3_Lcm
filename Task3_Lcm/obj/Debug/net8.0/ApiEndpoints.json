@@ -2,7 +2,7 @@
   {
     "ContainingType": "Task3_Lcm.Controllers.LcmController",
     "Method": "Get",
-    "RelativePath": "ebrar_guzel26_gmail_com",
+    "RelativePath": "api/ebrar_guzel26_gmail_com",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

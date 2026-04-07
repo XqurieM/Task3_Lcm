@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Task3_Lcm.Controllers
 {
-    [Route("")]
+    [Route("api")]
     [ApiController]
     public class LcmController : ControllerBase
     {
