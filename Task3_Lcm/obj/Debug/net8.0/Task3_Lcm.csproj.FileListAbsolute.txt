@@ -62,7 +62,6 @@ C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\staticwebasse
 C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\swae.build.ex.cache
 C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.csproj.Up2Date
 C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.dll
@@ -70,3 +69,4 @@ C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\refint\Task3_
 C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.pdb
 C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.genruntimeconfig.cache
 C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\ref\Task3_Lcm.dll
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.sourcelink.json

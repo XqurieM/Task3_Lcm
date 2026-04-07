@@ -3,7 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Task3_Lcm.Controllers
 {
-    [Route("api/[controller]")]
+    //[Route("api/[controller]")]
+    [Route("ebrar_guzel26_gmail_com")]
     [ApiController]
     public class LcmController : ControllerBase
     {
