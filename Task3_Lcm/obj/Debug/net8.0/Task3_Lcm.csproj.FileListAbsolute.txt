@@ -1,0 +1,72 @@
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\bin\Debug\net8.0\appsettings.json
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\bin\Debug\net8.0\Task3_Lcm.staticwebassets.endpoints.json
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\bin\Debug\net8.0\Task3_Lcm.exe
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\bin\Debug\net8.0\Task3_Lcm.deps.json
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\bin\Debug\net8.0\Task3_Lcm.runtimeconfig.json
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\bin\Debug\net8.0\Task3_Lcm.dll
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\bin\Debug\net8.0\Task3_Lcm.pdb
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.csproj.AssemblyReference.cache
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.AssemblyInfoInputs.cache
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.AssemblyInfo.cs
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.csproj.CoreCompileInputs.cache
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\scopedcss\bundle\Task3_Lcm.styles.css
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.csproj.Up2Date
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.dll
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\refint\Task3_Lcm.dll
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.pdb
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.genruntimeconfig.cache
+C:\Users\EBRAR GUZEL\source\repos\Task3_Lcm\Task3_Lcm\obj\Debug\net8.0\ref\Task3_Lcm.dll
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\bin\Debug\net8.0\appsettings.json
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\bin\Debug\net8.0\Task3_Lcm.staticwebassets.endpoints.json
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\bin\Debug\net8.0\Task3_Lcm.exe
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\bin\Debug\net8.0\Task3_Lcm.deps.json
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\bin\Debug\net8.0\Task3_Lcm.runtimeconfig.json
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\bin\Debug\net8.0\Task3_Lcm.dll
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\bin\Debug\net8.0\Task3_Lcm.pdb
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.csproj.AssemblyReference.cache
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.AssemblyInfoInputs.cache
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.AssemblyInfo.cs
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.csproj.CoreCompileInputs.cache
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\scopedcss\bundle\Task3_Lcm.styles.css
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.csproj.Up2Date
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.dll
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\refint\Task3_Lcm.dll
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.pdb
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\Task3_Lcm.genruntimeconfig.cache
+C:\Users\EBRAR GUZEL\Desktop\New folder\Task3_Lcm\obj\Debug\net8.0\ref\Task3_Lcm.dll
