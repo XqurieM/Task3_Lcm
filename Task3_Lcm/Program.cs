@@ -32,7 +32,6 @@ app.Use(async (context, next) =>
 
     var startTime = DateTime.UtcNow;
 
-    // IP alma
     var ip = context.Connection.RemoteIpAddress?.ToString();
 
     Console.WriteLine("---- REQUEST ----");
@@ -47,14 +46,32 @@ app.Use(async (context, next) =>
         Console.WriteLine($"Header: {header.Key} = {header.Value}");
     }
 
+    // =========================
+    // RESPONSE CAPTURE START
+    // =========================
+    var originalBodyStream = context.Response.Body;
+    using var responseBody = new MemoryStream();
+
+    context.Response.Body = responseBody;
+
     await next();
 
+    // Response body oku
+    context.Response.Body.Seek(0, SeekOrigin.Begin);
+    var responseText = await new StreamReader(context.Response.Body).ReadToEndAsync();
+    context.Response.Body.Seek(0, SeekOrigin.Begin);
+
+    // Log
     var endTime = DateTime.UtcNow;
     var duration = (endTime - startTime).TotalMilliseconds;
 
     Console.WriteLine($"Response Status: {context.Response.StatusCode}");
+    Console.WriteLine($"Response Body: {responseText}");
     Console.WriteLine($"Duration: {duration} ms");
     Console.WriteLine("------------------");
+
+    // Response'u geri yaz (CRITICAL)
+    await responseBody.CopyToAsync(originalBodyStream);
 });
 
 app.UseHttpsRedirection();
