@@ -7,9 +7,13 @@ namespace Task3_Lcm.Controllers
     [ApiController]
     public class LcmController : ControllerBase
     {
+        [Produces("text/plain")]
         [HttpGet("ebrar_guzel26_gmail_com")]
-        public string Get(string x, string y)
+        public string Get(string? x, string? y)
         {
+            if (string.IsNullOrEmpty(x) || string.IsNullOrEmpty(y))
+                return "NaN";
+
             if (!long.TryParse(x, out var a) || !long.TryParse(y, out var b))
                 return "NaN";
 
@@ -26,9 +30,9 @@ namespace Task3_Lcm.Controllers
         {
             while (b != 0)
             {
-                long temp = b;
+                long t = b;
                 b = a % b;
-                a = temp;
+                a = t;
             }
             return a;
         }
