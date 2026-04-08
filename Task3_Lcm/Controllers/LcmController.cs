@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Numerics;
 
 namespace Task3_Lcm.Controllers
 {
@@ -8,13 +9,13 @@ namespace Task3_Lcm.Controllers
     public class LcmController : ControllerBase
     {
         [Produces("text/plain")]
-        [HttpGet("ebrar_guzel26_gmail_com")]
+        [HttpGet("/ebrar_guzel26_gmail_com")]
         public string Get(string? x, string? y)
         {
             if (string.IsNullOrEmpty(x) || string.IsNullOrEmpty(y))
                 return "NaN";
 
-            if (!long.TryParse(x, out var a) || !long.TryParse(y, out var b))
+            if (!BigInteger.TryParse(x, out var a) || !BigInteger.TryParse(y, out var b))
                 return "NaN";
 
             if (a < 0 || b < 0)
@@ -23,14 +24,17 @@ namespace Task3_Lcm.Controllers
             if (a == 0 || b == 0)
                 return "0";
 
-            return (a / Gcd(a, b) * b).ToString();
+            var gcd = Gcd(a, b);
+            var lcm = (a / gcd) * b;
+
+            return lcm.ToString();
         }
 
-        private long Gcd(long a, long b)
+        private BigInteger Gcd(BigInteger a, BigInteger b)
         {
             while (b != 0)
             {
-                long t = b;
+                var t = b;
                 b = a % b;
                 a = t;
             }

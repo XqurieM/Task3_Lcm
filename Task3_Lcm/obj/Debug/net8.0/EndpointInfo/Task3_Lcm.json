@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/ebrar_guzel26_gmail_com": {
+    "/ebrar_guzel26_gmail_com": {
       "get": {
         "tags": [
           "Lcm"
